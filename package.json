@@ -1,0 +1,19 @@
+{
+  "name": "@m1aestro/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m1aestro/ajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m1aestro/ajs/issues"
+  },
+  "homepage": "https://github.com/m1aestro/ajs#readme"
+}
